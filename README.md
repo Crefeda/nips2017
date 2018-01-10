@@ -5,3 +5,5 @@ Title: Energy and Performance evaluation of Convolutional Neural Networks on low
 https://sites.google.com/view/nips-2017-on-device-ml/schedule
 Paper:
     DOI10.1109/IISWC.2017.8167764
+    
+    Link: http://ieeexplore.ieee.org/document/8167764/
